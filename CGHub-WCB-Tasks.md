@@ -13,12 +13,12 @@
 | W1-T2 | A2 Prompt（提示词） | ✅ | ✅ | Day 1 |
 | W1-T3 | A3 Context（上下文） | ✅ | ✅ | Day 1 |
 | W1-T4 | A4 RAG（检索增强生成） | ✅ | ✅ | Day 4 |
-| W1-T5 | Task 3 · 区块链浏览器（Etherscan） | ✅ | ❌ | 昨天已操作，未提交 |
-| W1-T6 | Task 4 · 合约部署 Sepolia | ✅ | ❌ | 合约已上链，未提交截图/证明 |
-| W1-T7 | Proof-of-Work 提交 | ⚠️ | ❌ | 草稿已写，待 Hugo 过目 |
+| W1-T5 | Task 3 · 区块链浏览器（Etherscan） | ✅ | ✅ | Day 8 已提交 |
+| W1-T6 | Task 4 · 合约部署 Sepolia | ✅ | ✅ | Day 8 已提交 |
+| W1-T7 | Proof-of-Work 提交 | ✅ | ✅ | Day 8 已提交 |
 | W1-T8 | W1 AI概念卡片 | ✅ | ✅ | Day 7 |
 
-**W1 提交状态：4/8 已提交，4个待提交**
+**W1 提交状态：8/8 已完成 ✅（Day 8 全部收尾）**
 
 ---
 

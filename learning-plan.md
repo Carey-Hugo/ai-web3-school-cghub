@@ -1,7 +1,7 @@
 # 30-Day Learning Plan - AI × Web3 School
 
 **Goal**: Build AI × Web3 skills through 创客星球(CGHub) hackathon project
-**Period**: 30 days from start
+**Period**: 30 days from 2026-05-18 (Mon = Day 1)
 **Focus**: Bridge AI tools with Web3 infrastructure (Agent wallets, on-chain identity, smart contracts)
 
 ---

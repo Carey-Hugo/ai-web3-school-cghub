@@ -17,12 +17,12 @@
 || W1-03 | Web3向进阶 · 比较EOA、智能账户、多签的权限差异 | +30 | ✅ 已提交 | Day 10→27 |
 | W1-04 | AIxWeb3综合任务 · 画出 Week 1 Proof-of-Work Pack | +30 | ✅ 已提交 | Day 10→27，贡献记录→收益分配最小闭环流程图 |
 | W1-05 | AIxWeb3综合任务 · 提交 Week 1 Proof-of-Work Pack | +40 | ✅ 已提交 | Day 10→27，GitHub README 入口 |
-| W1-06 | 综合进阶 · 设计一个受控Web3助手或小workflow | +40 | ❌ |  |
+| W1-06 | 综合进阶 · 设计一个受控Web3助手或小workflow | +40 | ✅ 已提交 | Day 10→27，CGHub Contribution Agent 设计 |
 || W1-07 | 发布 AI x Web3 学习总结 | +20 | ✅ 已提交 | Day 8→26 |
 || W1-08 | 行业观察进阶 · 拆解1-2个 AI x Web3 项目或个人 | +20 | ✅ 已提交 | Day 10→27，AIGC.art + Gitcoin Passport |
 || W1-09 | 前置准备 · 建立 AI x Web3 行业信息流关注清单 | +20 | ✅ 已提交 | Day 8→26 |
 
-**W1 剩余任务：3个，共100分**
+**W1 剩余任务：1个，共30分**
 
 ### Week 1 已完成 ✅
 

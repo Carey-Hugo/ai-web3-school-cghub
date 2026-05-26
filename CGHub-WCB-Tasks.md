@@ -15,14 +15,14 @@
 | W1-01 | AI向任务 · 完成AI可交互学习产物 | +30 | ❌ |  |
 || W1-02 | Web3向任务 · 整理Web3基础概念卡片 | +10 | ✅ 已提交 | Day 8→26 |
 || W1-03 | Web3向进阶 · 比较EOA、智能账户、多签的权限差异 | +30 | ✅ 已提交 | Day 10→27 |
-| W1-04 | AIxWeb3综合任务 · 画出 Week 1 Proof-of-Work Pack | +30 | ❌ |  |
-| W1-05 | AIxWeb3综合任务 · 提交 Week 1 Proof-of-Work Pack | +40 | ❌ |  |
+| W1-04 | AIxWeb3综合任务 · 画出 Week 1 Proof-of-Work Pack | +30 | ✅ 已提交 | Day 10→27，贡献记录→收益分配最小闭环流程图 |
+| W1-05 | AIxWeb3综合任务 · 提交 Week 1 Proof-of-Work Pack | +40 | ✅ 已提交 | Day 10→27，GitHub README 入口 |
 | W1-06 | 综合进阶 · 设计一个受控Web3助手或小workflow | +40 | ❌ |  |
 || W1-07 | 发布 AI x Web3 学习总结 | +20 | ✅ 已提交 | Day 8→26 |
 || W1-08 | 行业观察进阶 · 拆解1-2个 AI x Web3 项目或个人 | +20 | ✅ 已提交 | Day 10→27，AIGC.art + Gitcoin Passport |
 || W1-09 | 前置准备 · 建立 AI x Web3 行业信息流关注清单 | +20 | ✅ 已提交 | Day 8→26 |
 
-**W1 剩余任务：6个，共150分**
+**W1 剩余任务：3个，共100分**
 
 ### Week 1 已完成 ✅
 
@@ -63,7 +63,7 @@
 | W2-22 | Weekly Review Sharing 6.05 | +5 | ❌ | 剩余13天 |
 | W2-23 | Weekly Review Sharing 6.12 | +5 | ❌ | 剩余20天 |
 
-**W2 任务共23个，已完成0个**
+**W2 任务共23个，已完成1个**
 
 ---
 

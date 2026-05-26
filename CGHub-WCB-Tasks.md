@@ -1,6 +1,6 @@
 # CGHub × WCB 任务总清单
 
-> 最后更新：2026-05-25（Day 8）
+> 最后更新：2026-05-26（Day 10）
 > 数据来源：WCB 学习面板截图
 > 规则：做完 → 打勾，提交 → 再打勾
 
@@ -40,8 +40,8 @@
 | # | 任务 | 积分 | 状态 | 备注 |
 |---|------|------|------|------|
 | W2-01 | 方向研究 · AI×Web3问题地图与主方向选择 | +20 | ✅ 已提交 | Day 10→27，提交方向：Payment/Commerce |
-| W2-02 | Payment/Commerce · 最小支付与商业流程拆解 | +20 | ❌ | 长期 |
-| W2-03 | 进阶实践 · x402 Paywall + CAW Agent 自主支付闭环 | +40 | ❌ | 长期 |
+| W2-02 | Payment/Commerce · 最小支付与商业流程拆解 | +20 | ✅ 已提交 | Day 10，提交文件：CGHub-WCB-Submissions/ |
+| W2-03 | 进阶实践 · x402 Paywall + CAW Agent 自主支付闭环 | +40 | ✅ 已提交 | Day 10，边学边写 |
 | W2-04 | Agent Identity · Agent Profile 与能力声明草图 | +20 | ❌ | 长期 |
 | W2-05 | Wallet/Permission · Agent 链上动作权限策略 | +20 | ❌ | 长期 |
 | W2-06 | Security/Privacy · Agent Workflow Threat Model | +20 | ❌ | 长期 |

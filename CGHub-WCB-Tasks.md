@@ -42,7 +42,7 @@
 | W2-01 | 方向研究 · AI×Web3问题地图与主方向选择 | +20 | ✅ 已提交 | Day 10→27，提交方向：Payment/Commerce |
 | W2-02 | Payment/Commerce · 最小支付与商业流程拆解 | +20 | ✅ 已提交 | Day 10，提交文件：CGHub-WCB-Submissions/ |
 | W2-03 | 进阶实践 · x402 Paywall + CAW Agent 自主支付闭环 | +40 | ✅ 已提交 | Day 10，边学边写 |
-| W2-04 | Agent Identity · Agent Profile 与能力声明草图 | +20 | ❌ | 长期 |
+|| W2-04 | Agent Identity · Agent Profile 与能力声明草图 | +20 | ✅ 已提交 | Day 10→27，文件：W2-04-Agent-Profile能力声明.md |
 | W2-05 | Wallet/Permission · Agent 链上动作权限策略 | +20 | ❌ | 长期 |
 | W2-06 | Security/Privacy · Agent Workflow Threat Model | +20 | ❌ | 长期 |
 | W2-07 | Governance/Coordination · 治理协作流程草图 | +20 | ❌ | 长期 |

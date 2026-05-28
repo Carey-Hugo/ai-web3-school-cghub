@@ -46,7 +46,7 @@
 | W2-05 | Wallet/Permission · Agent 链上动作权限策略 | +20 | ✅ 已提交 | Day 10→27，文件：W2-05-Agent权限策略.md |
 | W2-06 | Security/Privacy · Agent Workflow Threat Model | +20 | ✅ 已提交 | Day 10→27，文件：W2-06-Agent-Workflow-威胁模型.md |
 | W2-07 | Governance/Coordination · 治理协作流程草图 | +20 | ✅ 已提交 | Day 11→28，规则制定(67%,33%,100星钻)+争议裁决(3仲裁者) |
-| W2-08 | 总交付 · 方向深挖包与项目初步 Proposal | +40 | ❌ | 长期 |
+| W2-08 | 总交付 · 方向深挖包与项目初步 Proposal | +40 | ✅ 已提交 | Day 11→28，整合W2-01~07产出，Phase1 MVP黑客松目标 |
 | W2-09 | 线上活动 · 实时参加 5.26 Cobo Agentic Wallet | +20 | ❌ |  |
 | W2-10 | 线上活动 · 观看回放 5.26 Cobo Agentic Wallet | +10 | ❌ |  |
 | W2-11 | 线上活动 · 实时参加 5.27 Neo-Cypherpunk Privacy | +20 | ❌ |  |

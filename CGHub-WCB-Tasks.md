@@ -71,8 +71,8 @@
 
 | # | 任务 | 积分 | 状态 |
 |---|------|------|------|
-| W3-01 | Chain-aware Context（情境感知上下文） | — | ❌ |
-| W3-02 | Web3 Tool Use（RPC 调用） | — | ❌ |
+| W3-01 | Chain-aware Context（情境感知上下文） | — | ✅ Day 11 | viem + Alchemy RPC 读链 |
+| W3-02 | Web3 Tool Use（RPC 调用） | — | ✅ Day 11 | ERC-20 ABI + readContract 调用 |
 | W3-03 | Agent Workflow（工作流设计） | — | ❌ |
 | W3-04 | Agent Wallet（会话密钥） | — | ❌ |
 

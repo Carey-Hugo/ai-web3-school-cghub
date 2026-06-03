@@ -32,14 +32,20 @@
 
 **W1 未提交任务：Proof-of-Work 提交（草稿待确认）**
 
-### W2 · Agent 基础（Day 8 进行中）
+### W2 · Agent 基础（Day 9 完成核心概念学习）
 
-| 任务 | 状态 | 详情 |
+|| 任务 | 状态 | 详情 |
 |------|------|------|
-| A5 Agent（Tool Use / Planning / State / Reflection） | ❌ 未开始 | W2 核心 |
-| A6 Evaluation | ❌ 未开始 | W2 后半 |
-| W2 Proof-of-Work | ❌ 未开始 |  |
-| W2 AI概念卡片 | ❌ 未开始 |  |
+| A5 Agent（Tool Use / Planning / State / Reflection） | ✅ 共学完成 | 四个支柱全部讲解，Hugo 确认懂 |
+| A6 Evaluation | ✅ 共学完成 | 评估维度讲解，完成率/工具准确率/规划质量 |
+| MCP（Model Context Protocol） | ✅ 共学完成 | 标准插头机制，Host/Client/Server 三组件 |
+| W2 Proof-of-Work | ✅ 已提交 | Hugo 确认 |
+| W2 AI概念卡片 | ✅ 已提交 | Hugo 确认 |
+| Women Builders 活动 | ✅ 完成 | Hugo 已完成 |
+| Week 2 例会 | ✅ 完成 | Hugo 已完成 |
+| Day 8 打卡 | ❌ 错过 | 忘记，无法补签 |
+
+**W2 核心概念学习：全部完成 ✅**
 
 ---
 
@@ -101,5 +107,5 @@ API 调用方式：
 
 ---
 
-> 最后更新：2026-05-25（Day 8）
+> 最后更新：2026-05-30（Day 9）
 > 更新时机：每次重要状态变化后
